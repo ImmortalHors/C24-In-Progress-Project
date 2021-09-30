@@ -1,1 +1,1 @@
-# C24-In-Progress-Project
+# project-C24-template
